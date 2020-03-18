@@ -6,7 +6,7 @@
 import java.util.Scanner;
 
 public class Calculator {
-
+//comment for github: main method below
     public static void main(String[] args) {
         //initializing scanner
         Scanner input = new Scanner(System.in);
